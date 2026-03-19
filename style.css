@@ -658,6 +658,21 @@ h1, h2, h3, h4, .logo, .ff-display {
     margin-bottom: 1.5rem;
 }
 
+.footer-contact-info {
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: rgba(251, 248, 241, 0.8);
+}
+
+.footer-contact-info p {
+    margin-bottom: 0.5rem;
+}
+
+.footer-contact-info a:hover {
+    color: var(--clr-gold);
+}
+
 .social-links {
     display: flex;
     gap: 1rem;
